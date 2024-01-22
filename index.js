@@ -6,7 +6,7 @@ const mongoose = require('mongoose')
 //const db = require("./config/mongoose");
 
 
-mongoose.connect(("mongodb+srv://harsh91:harsh91@cluster0.qpf7hje.mongodb.net/adminPanal1"), {
+mongoose.connect(("mongodb+srv://harshlathiya90:4gJdpY0BkSS7tBwT@cluster0.z08bhcz.mongodb.net/Blog"), {
     useUnifiedTopology: true,
     useNewUrlParser: true
 })
